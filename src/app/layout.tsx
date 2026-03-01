@@ -21,8 +21,8 @@ const bree = Bree_Serif({
 });
 
 export const metadata: Metadata = {
-  title: "Chaitu & Ammu Wedding",
-  description: "Wedding invitation of Chaitanya Gupta and Malika Devi",
+  title: "Venky & Latha Wedding",
+  description: "Wedding invitation of Venkatesh and Srilatha",
 };
 
 export default function RootLayout({

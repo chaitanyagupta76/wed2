@@ -1,8 +1,8 @@
 {
   "general": {
     "siteTitle": {
-      "en": "Chaitu & Ammu Wedding",
-      "te": "చైతు & అమ్ము పెళ్లి"
+      "en": "Venky & Latha Wedding",
+      "te": "వెంకీ & లతా పెళ్లి"
     },
     "scrollText": {
       "en": "Scroll",
@@ -11,8 +11,8 @@
   },
   "navbar": {
     "logo": {
-      "en": "Chaitu & Ammu",
-      "te": "చైతు & అమ్ము"
+      "en": "Venky & Latha",
+      "te": "వెంకీ & లతా"
     },
     "textLogo": {
       "en": "Wedding",
@@ -32,8 +32,8 @@
     "animation": true,
     "date": "08.03.2018",
     "names": {
-      "en": "Chaitu & Ammu",
-      "te": "చైతు & అమ్ము"
+      "en": "Venky & Latha",
+      "te": "వెంకీ & లతా"
     }
   },
   "happyCouple": {
@@ -42,20 +42,20 @@
       "te": "సంతోషకరమైన జంట"
     },
     "groom": {
-      "firstName": { "en": "Chaitanya", "te": "చైతన్య" },
+      "firstName": { "en": "Venkatesh", "te": "వెంకటేష్" },
       "lastName": { "en": "Gupta", "te": "గుప్తా" }
     },
     "bride": {
-      "firstName": { "en": "Malika", "te": "మాలిక" },
-      "lastName": { "en": "Devi", "te": "దేవి" }
+      "firstName": { "en": "Srilatha", "te": "శ్రీలతా" },
+      "lastName": { "en": "Veni", "te": "వేణీ" }
     },
     "invitation": {
       "en": "You're Invited",
       "te": "మీకు ఆహ్వానం"
     },
     "invitationText": {
-      "en": "On the 08th of March, 2018\nChaitanya Gupta & Malika Devi\nArya vysya kalyana mandapam, Akividu.",
-      "te": "08 మార్చి, 2018న\nచైతన్య గుప్తా & మాలికా దేవి\nఆర్యా వైశ్య కళ్యాణ మండపం, ఆకివీడు."
+      "en": "On the 08th of March, 2018\nVenkatesh & Srilatha\nGrand Royal Function Hall, Bhimavaram.",
+      "te": "08 మార్చి, 2018న\nవెంకటేష్ & శ్రీలతా\nగ్రాండ్ రాయల్ ఫంక్షన్ హాల్, భీమవరం."
     }
   },
   "story": {
@@ -74,7 +74,7 @@
           "en": "Falling in love is very real. But I used to shake my head when people talked about soul mates... Then, we met, and everything changed.",
           "te": "ప్రేమలో పడటం చాలా నిజం. కానీ ఆత్మబంధువుల గురించి మాట్లాడుతుంటే నేను నమ్మేవాడిని కాదు... కానీ మేము కలిసాక, అంతా మారిపోయింది."
         },
-        "location": "Akividu 2017"
+        "location": "Bhimavaram 2017"
       },
       {
         "id": "knotted",
@@ -135,12 +135,12 @@
     "enabled": true,
     "title": { "en": "Anticipating your participation for the wedding event", "te": "వివాహ వేడుకలో మీ భాగస్వామ్యం కోసం ఎదురుచూస్తున్నాము" },
     "hall": {
-      "title": { "en": "Arya vysya function hall", "te": "ఆర్యా వైశ్య ఫంక్షన్ హాల్" },
-      "address": { "en": "Akividu, W.G.Dt", "te": "ఆకివీడు, పశ్చిమ గోదావరి జిల్లా" }
+      "title": { "en": "Grand Royal Function Hall", "te": "గ్రాండ్ రాయల్ ఫంక్షన్ హాల్" },
+      "address": { "en": "Bhimavaram, W.G.Dt", "te": "భీమవరం, పశ్చిమ గోదావరి జిల్లా" }
     },
     "reception": {
       "title": { "en": "Reception", "te": "రిసెప్షన్" },
-      "address": { "en": "Vasavi kalyana mandapam, Tanuku, W.G.Dt", "te": "వాసవి కళ్యాణ మండపం, తణుకు, పశ్చిమ గోదావరి జిల్లా" }
+      "address": { "en": "Sri Krishna Kalyana Mandapam, Palakollu, W.G.Dt", "te": "శ్రీ కృష్ణ కళ్యాణ మండపం, పాలకొల్లు, పశ్చిమ గోదావరి జిల్లా" }
     },
     "map": {
       "text": { "en": "Open The Map", "te": "మ్యాప్‌ను తెరవండి" },

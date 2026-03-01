@@ -59,7 +59,7 @@ const Footer = () => {
 
                     <div className="pt-12 border-t border-white/20 mt-16 max-w-lg mx-auto">
                         <span className="text-white/60 font-serif tracking-widest uppercase text-sm">
-                            Made for Chaitanya & Malika
+                            Made for Venkatesh & Srilatha
                         </span>
                     </div>
                 </motion.div>

@@ -45,7 +45,7 @@ const HappyCouple = () => {
                             <img
                                 src={images.happyCouple.groom}
                                 alt="Groom"
-                                className="w-full h-full object-cover grayscale active:grayscale-0 hover:grayscale-0 transition-all duration-700 ease-in-out"
+                                className="w-full h-full object-cover transition-all duration-700 ease-in-out"
                             />
                             <div className="absolute top-4 left-4 sm:top-8 sm:left-8">
                                 <h6 className="text-xl sm:text-3xl md:text-4xl font-serif leading-tight">
@@ -68,7 +68,7 @@ const HappyCouple = () => {
                             <img
                                 src={images.happyCouple.bride}
                                 alt="Bride"
-                                className="w-full h-full object-cover grayscale active:grayscale-0 hover:grayscale-0 transition-all duration-700 ease-in-out"
+                                className="w-full h-full object-cover transition-all duration-700 ease-in-out"
                             />
                             <div className="absolute bottom-4 right-4 sm:bottom-8 sm:right-8 text-right">
                                 <h6 className="text-xl sm:text-3xl md:text-4xl font-serif leading-tight">
@@ -91,8 +91,8 @@ const HappyCouple = () => {
                     <h3 className="text-2xl sm:text-3xl md:text-4xl font-serif italic mb-4 sm:mb-6">{t("happyCouple.invitation")}</h3>
                     <p className="text-base sm:text-xl md:text-2xl font-light text-gray-100 leading-relaxed whitespace-pre-line drop-shadow-sm">
                         {language === 'te'
-                            ? `${dateLong}న\nచైతన్య గుప్తా & మాలికా దేవి\nఆర్యా వైశ్య కళ్యాణ మండపం, ఆకివీడు.`
-                            : `On the ${dateLong}\nChaitanya Gupta & Malika Devi\nArya vysya kalyana mandapam, Akividu.`
+                            ? `${dateLong}న\nవెంకటేష్ & శ్రీలతా\nగ్రాండ్ రాయల్ ఫంక్షన్ హాల్, భీమవరం.`
+                            : `On the ${dateLong}\nVenkatesh & Srilatha\nGrand Royal Function Hall, Bhimavaram.`
                         }
                     </p>
                 </motion.div>
