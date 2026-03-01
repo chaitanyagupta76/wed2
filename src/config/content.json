@@ -1,0 +1,173 @@
+{
+  "general": {
+    "siteTitle": {
+      "en": "Chaitu & Ammu Wedding",
+      "te": "చైతు & అమ్ము పెళ్లి"
+    },
+    "scrollText": {
+      "en": "Scroll",
+      "te": "క్రిందికి జరపండి"
+    }
+  },
+  "navbar": {
+    "logo": {
+      "en": "Chaitu & Ammu",
+      "te": "చైతు & అమ్ము"
+    },
+    "textLogo": {
+      "en": "Wedding",
+      "te": "వివాహం"
+    },
+    "links": [
+      { "id": "home", "en": "Home", "te": "హోమ్" },
+      { "id": "story", "en": "Story", "te": "కథ" },
+      { "id": "where", "en": "Where & When", "te": "ఎక్కడ & ఎప్పుడు" },
+      { "id": "gallery", "en": "Gallery", "te": "గ్యాలరీ" },
+      { "id": "gifts", "en": "Gifts", "te": "బహుమతులు" },
+      { "id": "rsvp", "en": "RSVP", "te": "RSVP" }
+    ]
+  },
+  "hero": {
+    "enabled": true,
+    "animation": true,
+    "date": "08.03.2018",
+    "names": {
+      "en": "Chaitu & Ammu",
+      "te": "చైతు & అమ్ము"
+    }
+  },
+  "happyCouple": {
+    "sectionTitle": {
+      "en": "Happy Couple",
+      "te": "సంతోషకరమైన జంట"
+    },
+    "groom": {
+      "firstName": { "en": "Chaitanya", "te": "చైతన్య" },
+      "lastName": { "en": "Gupta", "te": "గుప్తా" }
+    },
+    "bride": {
+      "firstName": { "en": "Malika", "te": "మాలిక" },
+      "lastName": { "en": "Devi", "te": "దేవి" }
+    },
+    "invitation": {
+      "en": "You're Invited",
+      "te": "మీకు ఆహ్వానం"
+    },
+    "invitationText": {
+      "en": "On the 08th of March, 2018\nChaitanya Gupta & Malika Devi\nArya vysya kalyana mandapam, Akividu.",
+      "te": "08 మార్చి, 2018న\nచైతన్య గుప్తా & మాలికా దేవి\nఆర్యా వైశ్య కళ్యాణ మండపం, ఆకివీడు."
+    }
+  },
+  "story": {
+    "enabled": true,
+    "sectionTitle": {
+      "en": "Our Story",
+      "te": "మా కథ"
+    },
+    "events": [
+      {
+        "id": "first-met",
+        "title": { "en": "Our first met", "te": "మా మొదటి కలయిక" },
+        "date": "26 Aug 2017",
+        "subtitle": { "en": "That day changed everything", "te": "ఆ రోజు అంతా మారిపోయింది" },
+        "description": {
+          "en": "Falling in love is very real. But I used to shake my head when people talked about soul mates... Then, we met, and everything changed.",
+          "te": "ప్రేమలో పడటం చాలా నిజం. కానీ ఆత్మబంధువుల గురించి మాట్లాడుతుంటే నేను నమ్మేవాడిని కాదు... కానీ మేము కలిసాక, అంతా మారిపోయింది."
+        },
+        "location": "Akividu 2017"
+      },
+      {
+        "id": "knotted",
+        "title": { "en": "We are knotted together", "te": "మేము ఒక్కటయ్యాము" },
+        "date": "02 Sep 2017",
+        "subtitle": { "en": "That was so wonderful", "te": "అది చాలా అద్భుతంగా ఉంది" },
+        "description": {
+          "en": "Some people come in our life as blessings. I got my life partner on this day which was memorable.",
+          "te": "కొందరు వ్యక్తులు మన జీవితంలోకి దీవెనలుగా వస్తారు. నేను నా జీవిత భాగస్వామిని ఈ రోజున పొందాను, ఇది చిరస్మరణీయమైనది."
+        },
+        "location": "September 2017"
+      },
+      {
+        "id": "engagement",
+        "title": { "en": "Engagement day", "te": "నిశ్చితార్థం రోజు" },
+        "date": "05 Oct 2017",
+        "subtitle": { "en": "That day changed everything", "te": "ఆ రోజు అంతా మారిపోయింది" },
+        "description": {
+          "en": "Two hearts came together and made promise to be in love forever in life. God has gifted us with a great blessing.",
+          "te": "రెండు హృదయాలు కలిసి జీవితాంతం ప్రేమలో ఉంటామని వాగ్దానం చేశాయి. దేవుడు మాకు గొప్ప దీవెనను ప్రసాదించాడు."
+        },
+        "location": "October 2017"
+      },
+      {
+        "id": "wedding-day",
+        "title": { "en": "Now we together", "te": "ఇప్పుడు మేము కలిసి" },
+        "date": "08 March 2018",
+        "subtitle": { "en": "We're waiting for the best", "te": "మేము ఉత్తమమైన వాటి కోసం ఎదురుచూస్తున్నాము" },
+        "description": {
+          "en": "We'll share our tomorrows and all that it holds. Request the pleasure of your company to celebrate our wedding.",
+          "te": "మేము మా రేపటిని మరియు దానిలో ఉన్న ప్రతిదాన్ని పంచుకుంటాము. మా వివాహాన్ని జరుపుకోవడానికి మీ రాకను కోరుకుంటున్నాము."
+        },
+        "location": "March 2018"
+      }
+    ]
+  },
+  "countdown": {
+    "enabled": true,
+    "title": { "en": "Don't miss it!", "te": "మిస్ అవ్వకండి!" },
+    "targetDate": "2018-03-08T00:00:00"
+  },
+  "giftRegistry": {
+    "enabled": true,
+    "title": { "en": "Gift Registry", "te": "బహుమతుల రిజిస్ట్రీ" },
+    "description": { "en": "The best gift is your participation", "te": "మీ భాగస్వామ్యమే ఉత్తమ బహుమతి" }
+  },
+  "gallery": {
+    "enabled": true,
+    "title": { "en": "Our Gallery", "te": "మా గ్యాలరీ" },
+    "filters": [
+      { "id": "all", "en": "Show All", "te": "అన్నీ చూపించు" },
+      { "id": "engagement", "en": "Engagement", "te": "నిశ్చితార్థం" },
+      { "id": "first-dates", "en": "First Dates", "te": "మొదటి డేట్స్" },
+      { "id": "trip", "en": "Trip", "te": "ట్రిప్" }
+    ]
+  },
+  "whereAndWhen": {
+    "enabled": true,
+    "title": { "en": "Anticipating your participation for the wedding event", "te": "వివాహ వేడుకలో మీ భాగస్వామ్యం కోసం ఎదురుచూస్తున్నాము" },
+    "hall": {
+      "title": { "en": "Arya vysya function hall", "te": "ఆర్యా వైశ్య ఫంక్షన్ హాల్" },
+      "address": { "en": "Akividu, W.G.Dt", "te": "ఆకివీడు, పశ్చిమ గోదావరి జిల్లా" }
+    },
+    "reception": {
+      "title": { "en": "Reception", "te": "రిసెప్షన్" },
+      "address": { "en": "Vasavi kalyana mandapam, Tanuku, W.G.Dt", "te": "వాసవి కళ్యాణ మండపం, తణుకు, పశ్చిమ గోదావరి జిల్లా" }
+    },
+    "map": {
+      "text": { "en": "Open The Map", "te": "మ్యాప్‌ను తెరవండి" },
+      "url": "https://www.google.com/maps/d/embed?mid=1pGf_4yB-_NJ0PYa8GDHwzj2rc1gPjlTT"
+    }
+  },
+  "rsvp": {
+    "enabled": true,
+    "title": { "en": "Are you attending?", "te": "మీరు వస్తున్నారా?" },
+    "button": { "en": "I'm Attending", "te": "నేను వస్తున్నాను" }
+  },
+  "liveStream": {
+    "enabled": true,
+    "title": { "en": "Live Stream", "te": "లైవ్ స్ట్రీమ్" },
+    "description": { 
+      "en": "We will be live on the marriage date.", 
+      "te": "మేము వివాహ తేదీన లైవ్ వస్తాము." 
+    }
+  },
+  "footer": {
+    "text": {
+      "en": "“ The best gift is your participation, thanks to all ”",
+      "te": "“మీ భాగస్వామ్యమే ఉత్తమ బహుమతి, అందరికీ ధన్యవాదాలు”"
+    }
+  },
+  "splash": {
+    "enabled": true,
+    "duration": 2000
+  }
+}

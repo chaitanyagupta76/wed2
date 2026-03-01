@@ -1,0 +1,55 @@
+{
+  "hero": {
+    "background": "/images/slider_1.jpg",
+    "logo": "/images/save_new4.png",
+    "header_couple": "/images/3.png",
+    "header_couple_white": "/images/3_white_couple.png"
+  },
+  "happyCouple": {
+    "background": "/images/young_couple/inpool.jpg",
+    "groom": "/images/young_couple/chaitanya.jpg",
+    "bride": "/images/young_couple/ammu.jpg"
+  },
+  "story": {
+    "title_icon": "/images/1.png",
+    "first_met": "/images/young_couple/alongbeach.jpg",
+    "knotted": "/images/young_couple/eating.jpg",
+    "engagement": "/images/young_couple/proposure.jpg",
+    "wedding_day": "/images/young_couple/running.jpg",
+    "small_icons": {
+      "couple_1": "/images/small_people/couple_1.png",
+      "couple_2": "/images/small_people/couple_2.png",
+      "small_couple_third": "/images/small_people/small_couple_third.png",
+      "small_couple": "/images/small_people/small_couple.png",
+      "heart_1": "/images/small_people/heart_1.png",
+      "heart_2": "/images/small_people/heart_2.png",
+      "heart_3": "/images/small_people/heart_3.png",
+      "heart_third_step_3": "/images/small_people/heart_third_step_3.png"
+    }
+  },
+  "countdown": {
+    "background": "/images/young_couple/hands.jpg"
+  },
+  "giftRegistry": {
+    "background": "/images/young_couple/turnover.jpg"
+  },
+  "gallery": [
+    { "src": "/images/young_couple/alongbeach.jpg", "category": "engagement", "title": "Love Story" },
+    { "src": "/images/young_couple/dream.jpg", "category": "engagement", "title": "First Met" },
+    { "src": "/images/young_couple/eating.jpg", "category": "first-dates", "title": "First Met" },
+    { "src": "/images/young_couple/hug.jpg", "category": "first-dates", "title": "Love Story" },
+    { "src": "/images/young_couple/inpool.jpg", "category": "engagement", "title": "First Met" },
+    { "src": "/images/young_couple/onkitchen.jpg", "category": "first-dates", "title": "First Met" },
+    { "src": "/images/young_couple/running.jpg", "category": "trip", "title": "Love Story" },
+    { "src": "/images/young_couple/turnover.jpg", "category": "engagement", "title": "Love Story" },
+    { "src": "/images/young_couple/inwater.jpg", "category": "trip", "title": "First Met" },
+    { "src": "/images/young_couple/him.jpg", "category": "trip", "title": "Love Story" },
+    { "src": "/images/young_couple/her.jpg", "category": "trip", "title": "First Met" }
+  ],
+  "whereAndWhen": {
+    "map_icon": "/images/small_people/rising_heart.png"
+  },
+  "footer": {
+    "background": "/images/young_couple/hug.jpg"
+  }
+}
