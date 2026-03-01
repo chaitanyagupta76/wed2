@@ -117,7 +117,18 @@ const Story = () => {
                                     transition={{ duration: 0.8 }}
                                     className={`w-full md:w-1/2 flex flex-col ${isEven ? "md:order-2 items-center md:items-start text-center md:text-left" : "md:order-1 items-center md:items-end text-center md:text-right"}`}
                                 >
-                                    <div className="bg-teal-50/50 p-5 sm:p-8 rounded-3xl border border-teal-100/50 backdrop-blur-sm max-w-lg w-full">
+                                    <div className="bg-teal-50/50 p-5 sm:p-8 rounded-3xl border border-teal-100/50 backdrop-blur-sm max-w-lg w-full relative overflow-hidden">
+                                        {/* Mobile stencil icon - top left corner */}
+                                        <div className="float-left mr-3 mb-1 md:hidden">
+                                            <div className="bg-white p-1.5 rounded-full shadow-md border border-teal-100">
+                                                <img
+                                                    // @ts-expect-error iconKey is dynamic
+                                                    src={images.story.small_icons[iconKey]}
+                                                    alt="Icon"
+                                                    className="w-8 h-8 object-contain"
+                                                />
+                                            </div>
+                                        </div>
                                         <span className="text-teal-600 font-bold tracking-[0.2em] uppercase text-xs sm:text-sm mb-2 block">{relativeDates[index]}</span>
                                         <h3 className="text-2xl sm:text-3xl font-serif text-gray-800 mb-2">{t(`story.events.${index}.title`)}</h3>
                                         <h5 className="text-teal-500 font-serif italic mb-4">{t(`story.events.${index}.subtitle`)}</h5>
